@@ -1,0 +1,16 @@
+iteration:1:time:58.046477
+iteration:2:time:53.863425
+iteration:3:time:58.836695
+iteration:4:time:59.486686
+iteration:5:time:56.899791
+iteration:6:time:61.958697
+iteration:7:time:55.923760
+iteration:8:time:61.386936
+iteration:9:time:58.8813689
+iteration:10:time:60.539423
+iteration:11:time:61.780670
+iteration:12:time:62.1777533
+iteration:13:time:58.672784
+iteration:14:time:57.184525
+iteration:15:time:55.731797
+iteration:16:time:58.220451
